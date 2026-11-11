@@ -1,6 +1,6 @@
 # Ziwei (Ekko) Yu · 余梓维
 
-AI product builder. I build the thing first, then talk about it. I study Entrepreneurial Management at the University of Minnesota (Carlson, class of 2027), and I build AI products end to end with Claude Code and Codex, from the idea to a live site with real users.
+AI product builder. I build the thing first, then talk about it. I make AI products end to end with Claude Code and Codex, from the idea to a live site with real users.
 
 习惯先把东西做出来再说的 AI 产品人。
 
