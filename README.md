@@ -2,12 +2,12 @@
 
 I build agent skills that replace vibes with checkable loops, for Claude Code and Codex.
 
-我用可检查的循环，而不是感觉，来打磨网站、文案和出图。
+我用可检查的循环打磨网站、文案和图片生成流程。
 
 ## Skills
 
 - **[award-polish](https://github.com/Ekko237/award-polish)** — Polish a site or app interface with Awwwards winners as the bar: calibrated blind reviews and a five-width layout checker. [中文说明](https://github.com/Ekko237/award-polish/blob/main/README.zh.md)
-- **[imagegen-swarm](https://github.com/Ekko237/imagegen-swarm)** — No API key needed: generate images and videos inside Claude Code with the accounts you already have (Codex, Jimeng/即梦, Grok, Gemini, Muse) on one quota-aware queue. [中文说明](https://github.com/Ekko237/imagegen-swarm/blob/main/README.zh-CN.md)
+- **[imagegen-swarm](https://github.com/Ekko237/imagegen-swarm)** — Generate images with existing Codex and Jimeng accounts, and videos with Jimeng. Share a quota-aware queue with Grok, Gemini, Muse and Lovart; Lovart uses its official AK/SK. [中文说明](https://github.com/Ekko237/imagegen-swarm/blob/main/README.zh-CN.md)
 - **[copy-studio](https://github.com/Ekko237/copy-studio)** — A staged marketing-copy pipeline (strategy → framework → draft → polish → de-AI) that stops for your approval at every gate.
 
 ## Interfaces I have shipped
