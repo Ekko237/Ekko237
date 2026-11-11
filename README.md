@@ -7,7 +7,7 @@ AI product builder. I build the thing first, then talk about it. I study Entrepr
 ## Products I built and launched
 
 - **[Mealow 今食喵](https://mealow.app)**: an AI "what should I eat" app. Pick a scene, answer a few taps, get three real dishes from nearby restaurants.
-- **[dfgqm.com](https://www.dfgqm.com)**: a Delta Force loadout-code tool for players on the global server. Search, filter, copy.
+- **[dfgqm.com](https://www.dfgqm.com/en)**: a Delta Force loadout-code tool for players on the global server. Search, filter, copy.
 - **[Island Evolution](https://islandevolution.com)**: an indie web game, plus the blog and Pinterest automation that brings players to it.
 
 ## Open-source skills for Claude Code and Codex
